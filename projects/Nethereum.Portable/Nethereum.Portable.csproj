@@ -778,7 +778,7 @@
         <Compile Include="..\..\src\Nethereum.KeyStore\KeyStoreServiceBase.cs">
 				<Link>KeyStore\KeyStoreServiceBase.cs</Link>
 		</Compile>
-
+		
         <Compile Include="..\..\src\Nethereum.KeyStore\Crypto\DecryptionException.cs">
 				<Link>KeyStore\Crypto\DecryptionException.cs</Link>
 		</Compile>
@@ -1117,6 +1117,10 @@
 		
         <Compile Include="..\..\src\Nethereum.Util\AddressUtil.cs">
 				<Link>Util\AddressUtil.cs</Link>
+		</Compile>
+		
+        <Compile Include="..\..\src\Nethereum.Util\ByteUtil.cs">
+				<Link>Util\ByteUtil.cs</Link>
 		</Compile>
 		
         <Compile Include="..\..\src\Nethereum.Util\Sha3Keccack.cs">
